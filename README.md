@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# About Cats
 
-You can use the [editor on GitHub](https://github.com/lydiafp/lydiafp.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Feline friends
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+About Cats answers **all the questions** you've ever had about cats and their **nine lives**.
 
-### Markdown
+<img :src="/assets/media/egypt_kitty_social.jpeg" alt="Egyptian Cat">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- *Felis catus* 
+- Domestic species of small carnivorous mammal
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Interesting Facts
+<!-- move to a separate page when possible-->
+- In terms of development, the first year of a cat’s life is equal to the first 15 years of a human life. After its second year, a cat is 25 in human years. And after that, each year of a cat’s life is equal to about 7 human years.
+- Cats can rotate their ears 180 degrees.
+- The hearing of the average cat is at least five times keener than that of a human adult.
+- In the largest cat breed, the average male weighs approximately 20 pounds.
+- Domestic cats spend about 70 percent of the day sleeping. And 15 percent of the day grooming.
+- A cat cannot see directly under its nose.
+- Most cats have no eyelashes.
+- Cats have five toes on each front paw, but only four on the back ones. It’s not uncommon, though, for cats to have extra toes. The cat with the most toes known had 32—eight on each paw!
+- Some believe that if you dream about a white cat, good luck will follow.
+- Meows are not innate cat language—they developed them to communicate with humans!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lydiafp/lydiafp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### About us
+Contact the [About Cats webpage team](mailto:lydiaf@empathy.co)
